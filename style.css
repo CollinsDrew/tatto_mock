@@ -3,6 +3,7 @@
     background: linear-gradient(90deg, rgba(152,24,208,1) 0%, rgba(246,5,209,1) 35%, rgba(7,204,244,1) 100%); 
     height: 200%;
     width: 100%;  
+    justify-content: center;
 }
 
 .intro {
@@ -15,7 +16,7 @@
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
-img {vertical-align: middle;}
+img {vertical-align: middle; border-radius: 10%;}
 
 /* Slideshow container */
 .slideshow-container {
