@@ -1,6 +1,8 @@
-.item1 {
-    background: rgb(152,24,208);
-    background: linear-gradient(90deg, rgba(152,24,208,1) 0%, rgba(246,5,209,1) 35%, rgba(7,204,244,1) 100%); 
+body {
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+.item1 { 
     height: 200%;
     width: 100%;  
     justify-content: center;
@@ -10,7 +12,7 @@
     text-align: center;
     font-family: fantasy;
     height: 10%;
-    color: purple;
+    color: white;
 }
 
 * {box-sizing: border-box;}
@@ -75,3 +77,9 @@ img {vertical-align: middle; border-radius: 10%;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+/*cards*/
+
+/*socials*/
+
+
